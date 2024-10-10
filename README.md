@@ -136,7 +136,7 @@
 
 <div align="center">
   
-  [![Spotify](https://novatorem-medelbou3.vercel.app/api/spotify)](https://open.spotify.com/user/youruserid)
+  [![Spotify.jpeg](https://novatorem-medelbou3.vercel.app/api/spotify)](https://open.spotify.com/user/youruserid)
 
 </div>
 
