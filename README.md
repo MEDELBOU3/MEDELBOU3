@@ -134,11 +134,18 @@
 
 <h2>🎵 Vibing to</h2>
 
-<div align="center">
-  
-  [![Spotify.jpeg](https://novatorem-medelbou3.vercel.app/api/spotify)](https://open.spotify.com/user/youruserid)
+<h2>🎵 My Music Taste</h2>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/assets/spotify.jpeg" alt="My Spotify Profile" width="300">
 </div>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/youruserid">
+    <img src="https://img.shields.io/badge/follow%20on%20spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Follow on Spotify"/>
+  </a>
+</p>
+
 
 <h2>📬 Get in Touch</h2>
 
