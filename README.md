@@ -1,119 +1,114 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7A909&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Mohamed+El-bouanani;A+CS+%26+AI+Student;From+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohamed+Talhaoui....;Nice+to+meet+you!&center=true&size=30">
 </h1>
 
-<h3 align="center">🚀 Passionate about AI, Machine Learning, and Data Science 🚀</h3>
-
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/mohamedtalhaoui/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/simo_elb_3/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.facebook.com/Simo.lbou3" title="Facebook Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/facebook.svg"> Facebook</a></code>
+  <code><a href="https://x.com/Simo_Elbou3" title="Twitter Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/twitter.svg"> Twitter</a></code>
+  <code><a href="https://youtube.com/@digitalvortex203" title="Youtube Channel"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/youtube.svg"> Youtube</a></code>
+</h5>
+<br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views">
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="followers">
-  <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=social" alt="stars">
+  Hi, I'm Mohamed Talhaoui, Computer Science & AI Student from Morocco
+  <br>
+  <br>
+  🔬 I'm currently studying for a master's degree in Artificial Intelligence at XYZ University
+  <br>
+  🎓 I graduated from ABC University with a bachelor's degree in Computer Science
+  <br>
+  💻 I love writing code and learning anything about it
+  <br>
+  📚 I'm currently learning how to build AI-powered applications
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/mohamedtalhaouii/mohamedtalhaouii/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: mohamedtalhaaoui@gmail.com">mohamedtalhaaoui@gmail.com</a>
 </p>
 
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
 <p align="center">
-  <a href="mailto:bravo.simo.2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
+  <code><img title="Django" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.png"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
+  <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery-original.svg"></code>
+  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
+  <code><img title="PHP" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/php.svg"></code>
+</p>
+<hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedtalhaouii&theme=react&border=61dafb&hide_border=true" alt="mohamedtalhaouii" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mohamedtalhaouii&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtalhaouii&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=mohamedtalhaouii&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
----
+<hr>
 
-### 👨‍💻 About Me :
-
-I'm a 19-year-old Computer Science & AI student from Morocco 🇲🇦
-
-- 🎓 Currently studying Computer Science & Artificial Intelligence
-- 🌱 Exploring advanced AI algorithms and Machine Learning techniques
-- 💡 Passionate about solving complex problems using technology
-- 🚀 Always eager to learn and stay updated with the latest tech trends
-- 🎯 2024 Goal: Contribute to open-source AI projects
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
-
----
-
-### 🛠 Languages and Tools :
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/mohamedtalhaouii/Sorting-Algoritms" title="Sorting-Algoritms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedtalhaouii&repo=Sorting-Algoritms&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/mohamedtalhaouii/Search-Algorithms" title="Search-Algorithms"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedtalhaouii&repo=Search-Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-
----
-
-### 🔥 My Stats :
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/mohamedtalhaouii/Algorithms-DataStructures" title="Algorithms-DataStructures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedtalhaouii&repo=Algorithms-DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/mohamedtalhaouii/DataScienceProjects" title="DataScienceProjects"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedtalhaouii&repo=DataScienceProjects&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+<br/><br/><br/><br/><br/><br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</div>
+<h4 align="center">
+  <a href="https://github.com/mohamedtalhaouii?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<hr>
 
----
+<h2 align="center">👨‍💻 Coding Activity 👨‍💻</h2>
+<br>
+<p align="center">
+  <img src="https://wakatime.com/share/@mohamedtalhaouii/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" height="400"/>
+</p>
 
-### 🏆 GitHub Trophies
+<hr>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+<h2 align="center">🤝 Support</h2>
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in Morocco</p>
 
----
+<h1 align="center">⚡️<i>Stay awesome!</i>⚡️</h1>
 
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark" alt="Contribution Graph" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
-</div>
-
----
-
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/yourusername/repo/pull/1) in [yourusername/repo](https://github.com/yourusername/repo)
-2. 💪 Opened PR [#2](https://github.com/yourusername/repo/pull/2) in [yourusername/repo](https://github.com/yourusername/repo)
-3. ❗️ Closed issue [#3](https://github.com/yourusername/repo/issues/3) in [yourusername/repo](https://github.com/yourusername/repo)
-<!--END_SECTION:activity-->
-
-</details>
-
----
-
-### 🎵 Now Playing
-
-[![Spotify](https://novatorem-yourusername.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
----
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Let's+connect+and+collaborate!;Feel+free+to+reach+out+anytime!" alt="Outro" />
-</h3>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
