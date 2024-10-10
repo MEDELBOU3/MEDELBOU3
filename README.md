@@ -25,7 +25,7 @@
   <br>
   💬 Feel free to ask me anything <a href="https://github.com/MEDELBOU3/MEDELBOU3/issues" title="Issues">Here</a>.
   <br>
-  📫 You can reach me at: <a href="mailto:mohamedtalhaaoui@gmail.com">mohamedtalhaaoui@gmail.com</a>
+  📫 You can reach me at: <a href="mailto:bravo.simo.2005@gmail.com">bravo.simo.2005@gmail.com</a>
 </p>
 
 <hr>
