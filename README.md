@@ -1,107 +1,146 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohamed+EL-bouanani....;Nice+to+meet+you!&center=true&size=30">
-</h1>
+<div align="center">
+  
+# Mohamed EL-bouanani
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/mohamedtalhaoui/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/simo_elb_3/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
-  <code><a href="https://www.facebook.com/Simo.lbou3" title="Facebook Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/facebook.svg"> Facebook</a></code>
-  <code><a href="https://x.com/Simo_Elbou3" title="Twitter Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/twitter.svg"> Twitter</a></code>
-  <code><a href="https://youtube.com/@digitalvortex203" title="YouTube Channel"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/youtube.svg"> YouTube</a></code>
-  <code><a href="https://github.com/MEDELBOU3" title="GitHub Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"> GitHub</a></code>
-</h5>
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7E2&random=false&width=435&lines=Computer+Science+%26+AI+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
-<p align="center">
-  Hi, I'm Mohamed EL_bouanani, a Computer Science & AI Student from Morocco.
-  <br>
-  🔬 I'm currently pursuing a master's degree in Artificial Intelligence at FPN affiliated to MOHAMED-I-University.
-  <br>
-  🎓 I graduated from FPN Freshman in Bachelor's with de degree in Computer Science.
-  <br>
-  💻 I love writing code and learning anything about it.
-  <br>
-  📚 Currently, I'm focused on building AI-powered applications and exploring machine learning.
-  <br>
-  💬 Feel free to ask me anything <a href="https://github.com/MEDELBOU3/MEDELBOU3/issues" title="Issues">Here</a>.
-  <br>
-  📫 You can reach me at: <a href="mailto:bravo.simo.2005@gmail.com">bravo.simo.2005@gmail.com</a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=MEDELBOU3&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/MEDELBOU3?style=social)](https://github.com/MEDELBOU3)
 
-<hr>
-<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.png"></code>
-  <code><img title="JavaScript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
-  <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
-</p>
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align="center">
-  <div align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=MEDELBOU3&theme=react&border=61dafb&hide_border=true" alt="MEDELBOU3" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=MEDELBOU3&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEDELBOU3&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=MEDELBOU3&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/MEDELBOU3/SM4music" title="SM4music"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MEDELBOU3&repo=SM4music&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/MEDELBOU3/S4Movies" title="S4Movies"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MEDELBOU3&repo=S4Movies&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/MEDELBOU3/smedecat" title="smedecat"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MEDELBOU3&repo=smedecat&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/MEDELBOU3/Simochatbot" title="Simochatbot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MEDELBOU3&repo=Simochatbot&theme=react&border_color=61dafb&border_radius=10"></a>
+
+## 🌟 About Me
+
+👨‍💻 I'm a passionate Computer Science & AI Student from Morocco, currently pursuing a master's degree in Artificial Intelligence at FPN affiliated to MOHAMED-I-University.
+
+🚀 My journey in tech is driven by curiosity and a desire to innovate. I'm constantly exploring new technologies and pushing the boundaries of what's possible in AI and software development.
+
+🌱 Currently focusing on:
+- Deep Learning and Neural Networks
+- Natural Language Processing
+- Full-Stack Web Development
+- Cloud Computing and DevOps
+
+💡 I believe in the power of technology to solve real-world problems and am always open to collaborating on exciting projects!
+
+<details>
+<summary>🔍 More about me</summary>
+
+- 🎓 Bachelor's in Computer Science from FPN
+- 🏆 Winner of [Any relevant hackathons or competitions]
+- 🌍 Passionate about using technology for social good
+- 📚 Avid reader of tech blogs and scientific papers
+- 🎸 Amateur guitarist in my free time
+
+</details>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
-<br/><br/><br/><br/><br/><br/>
 
-<h4 align="center">
-  <a href="https://github.com/MEDELBOU3?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+## 📊 GitHub Stats
 
-<hr>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MEDELBOU3&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MEDELBOU3&hide_border=true&theme=radical" align="center" />
+</div>
 
-<h2 align="center">👨‍💻 Coding Activity 👨‍💻</h2>
-<br>
-<p align="center">
-  <img src="https://wakatime.com/share/@MEDELBOU3/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" height="400"/>
-</p>
+<br/>
 
-<hr>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEDELBOU3&langs_count=8&layout=compact&hide_border=true&theme=radical" align="center" />
+</div>
 
-<h2 align="center">🤝 Support</h2>
-<p align="center">💙 If you like my projects, please give them ⭐ and share them with friends!</p>
-<p align="center">Made with ❤️ in Morocco</p>
+## 🏆 GitHub Trophies
 
-<h1 align="center">⚡️<i>Stay awesome!</i>⚡️</h1>
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=MEDELBOU3&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+</div>
+
+## 🔥 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#123](https://github.com/MEDELBOU3/repo/pull/123) in [MEDELBOU3/repo]
+2. 💪 Opened PR [#456](https://github.com/MEDELBOU3/repo/pull/456) in [MEDELBOU3/repo]
+3. 🗣 Commented on [#789](https://github.com/MEDELBOU3/repo/issues/789) in [MEDELBOU3/repo]
+<!--END_SECTION:activity-->
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=MEDELBOU3&theme=react-dark&hide_border=true)
+
+## 🌐 Connect with me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedtalhaoui/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Simo_Elbou3)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@digitalvortex203)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MEDELBOU3)
+
+</div>
+
+## 🎨 My Top Projects
+
+<div align="center">
+  <a href="https://github.com/MEDELBOU3/SM4music">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEDELBOU3&repo=SM4music&theme=radical" />
+  </a>
+  <a href="https://github.com/MEDELBOU3/S4Movies">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEDELBOU3&repo=S4Movies&theme=radical" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/MEDELBOU3/smedecat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEDELBOU3&repo=smedecat&theme=radical" />
+  </a>
+  <a href="https://github.com/MEDELBOU3/Simochatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEDELBOU3&repo=Simochatbot&theme=radical" />
+  </a>
+</div>
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Exploring the Future of AI in Healthcare](https://yourblog.com/ai-in-healthcare)
+- [5 Must-Know Python Tips for Data Scientists](https://yourblog.com/python-tips-data-science)
+- [Building Scalable Web Applications with React and Node.js](https://yourblog.com/scalable-web-apps)
+<!-- BLOG-POST-LIST:END -->
+
+## 🎵 Now Playing
+
+[![Spotify](https://novatorem-medelbou3.vercel.app/api/spotify)](https://open.spotify.com/user/youruserid)
+
+<div align="center">
+
+## 💖 Support My Work
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+
+If you find my work valuable, consider supporting me!
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💻 Made with ❤️ using GitHub Markdown and a sprinkle of coding magic
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
