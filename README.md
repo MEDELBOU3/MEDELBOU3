@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/assets/header.svg" alt="Header" width="100%">
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Computer+Science+Student;AI+Enthusiast;Always+Learning" alt="Typing SVG" />
+</p>
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/assets/wave.gif" width="30px"> Welcome to Mohamed EL-bouanani's Digital Universe!
