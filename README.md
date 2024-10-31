@@ -144,11 +144,7 @@
 - [Mastering Advanced Python: Tips and Tricks for Data Scientists](https://yourblog.com/advanced-python-for-data-science)
 <!-- BLOG-POST-LIST:END -->
 
-<h2>🎵 Vibing to</h2>
-
 <h2>🎵 My Music Taste</h2>
-
-
 
 <p align="center">
   <a href="https://open.spotify.com/user/31754am2blkxjeazzmkzj54g7qfy?si=QyCHt1HoRfCjCpQYlq3Jdw">
