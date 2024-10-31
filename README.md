@@ -149,7 +149,7 @@
 <h2>🎵 My Music Taste</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/assets/spotify.jpeg" alt="My Spotify Profile" width="300">
+  <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/spotify.jpeg" alt="My Spotify Profile" width="300">
 </div>
 
 <p align="center">
