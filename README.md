@@ -1,147 +1,74 @@
 <div align="center">
-  
-# Mohamed EL-bouanani 👨‍💻
+  <!-- Dynamic Header Animation -->
+  <div style="background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%); padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+    <h1 style="color: white; font-family: 'Segoe UI', sans-serif; margin: 0;">
+      Mohamed El-bouanani
+    </h1>
+    <p style="color: #eee; font-size: 1.2em; margin: 10px 0;">
+      Computer Science & AI Researcher
+    </p>
+  </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&pause=1000&color=00F7E2&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+%26+AI+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;Passionate+about+Innovation+and+Technology;Building+the+Future+with+Code;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+  <!-- Professional Introduction -->
+  <div style="max-width: 800px; margin: 20px auto;">
+    <p style="text-align: justify; line-height: 1.6;">
+      Dedicated computer science researcher specializing in artificial intelligence and machine learning. 
+      Passionate about developing innovative solutions that bridge the gap between theoretical AI and practical applications.
+    </p>
+  </div>
 
-<p>
-  <a href="mailto:contact@medelbouanani.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@digitalvortex203"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://instagram.com/simo_elb_3"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+  <!-- Expertise Areas -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 30px 0;">
+    <div style="background: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+      <h3>AI & ML</h3>
+      <p>Deep Learning, Neural Networks, Computer Vision</p>
+    </div>
+    <div style="background: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+      <h3>Full Stack</h3>
+      <p>React, Node.js, Python, Cloud Architecture</p>
+    </div>
+    <div style="background: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+      <h3>Research</h3>
+      <p>Published Papers, Academic Collaboration</p>
+    </div>
+  </div>
 
-[Portfolio](https://medelbouanani.dev) | [Blog](https://blog.medelbouanani.dev) | [Resume](https://medelbouanani.dev/resume)
+  <!-- Skills Visualization -->
+  <div style="margin: 30px 0;">
+    <h2>Technical Proficiencies</h2>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <span style="background: #007bff; color: white; padding: 8px 15px; border-radius: 20px;">Python</span>
+      <span style="background: #28a745; color: white; padding: 8px 15px; border-radius: 20px;">TensorFlow</span>
+      <span style="background: #dc3545; color: white; padding: 8px 15px; border-radius: 20px;">PyTorch</span>
+      <span style="background: #ffc107; color: black; padding: 8px 15px; border-radius: 20px;">JavaScript</span>
+      <span style="background: #17a2b8; color: white; padding: 8px 15px; border-radius: 20px;">React</span>
+    </div>
+  </div>
 
+  <!-- Contact Information -->
+  <div style="background: #343a40; color: white; padding: 20px; border-radius: 10px; margin: 30px 0;">
+    <h2>Let's Connect</h2>
+    <div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;">
+      <a href="https://github.com/MEDELBOU3" style="color: white; text-decoration: none;">GitHub</a>
+      <a href="https://x.com/Simo_Elbou3" style="color: white; text-decoration: none;">Twitter</a>
+      <a href="https://www.youtube.com/@digitalvortex203" style="color: white; text-decoration: none;">YouTube</a>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <div style="margin-top: 50px; color: #6c757d; font-size: 0.9em;">
+    "Innovation distinguishes between a leader and a follower." - Steve Jobs
+  </div>
 </div>
 
-## 🌟 About Me
 
-> "The only way to do great work is to love what you do." - Steve Jobs
 
-I'm a passionate Computer Science & AI student and Full-Stack Developer with a keen interest in building innovative solutions that make a difference. My journey in tech is driven by curiosity and the desire to create meaningful impact through code.
 
-- 🔭 Currently working on: **AI-Powered Healthcare System**
-- 🌱 Learning: **Quantum Computing** & **Advanced System Design**
-- 👯 Looking to collaborate on: **Open Source AI Projects**
-- 💬 Ask me about: **AI, Web Development, System Architecture**
-- 🎯 2024 Goals: Contribute to more open source projects
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MEDELBOU3&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEDELBOU3&layout=compact&langs_count=8&theme=radical"/>
-</div>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MEDELBOU3&theme=radical)](https://git.io/streak-stats)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=MEDELBOU3&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
 
-## 💻 Tech Arsenal
 
-### Languages & Frameworks
-```json
-{
-  "languages": ["Python", "JavaScript", "TypeScript", "Java", "C++", "Rust", "Go"],
-  "frontend": ["React", "Next.js", "Vue.js", "Angular", "TailwindCSS", "Three.js"],
-  "backend": ["Node.js", "Django", "FastAPI", "Spring Boot", "GraphQL"],
-  "mobile": ["React Native", "Flutter"],
-  "databases": ["PostgreSQL", "MongoDB", "Redis", "Neo4j", "Firebase"],
-  "cloud": ["AWS", "GCP", "Azure", "Docker", "Kubernetes"],
-  "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "OpenAI", "Hugging Face"],
-  "tools": ["Git", "Jenkins", "GitHub Actions", "Terraform", "Prometheus"]
-}
-```
-🎯 Expertise Areas
-<div align="center">
 
-Domain	Technologies & Tools
-🌐 Web Development	![React][] ![Next.js][] ![Node.js][]
-🤖 Artificial Intelligence	![TensorFlow][] ![PyTorch][]
-☁️ Cloud Computing	![AWS][] ![GCP][]
-📱 Mobile Development	![React Native][] ![Flutter][]
-🔒 Cybersecurity	![Security][]
-</div>
-
-🚀 Featured Projects<div align="center">
-Project	Description	Tech Stack	Links
-🏥 AI Health Assistant	AI-powered healthcare diagnosis system with 95% accuracy	Python, TensorFlow, FastAPI	Demo | Code
-🗳️ SecureVote	Blockchain-based voting platform	Solidity, Web3.js, React	Demo | Code
-🎓 EduTech Platform	Full-stack e-learning solution	Next.js, Django, PostgreSQL	Demo | Code
-🤖 AI Code Assistant	Code generation and analysis tool	Python, OpenAI API, FastAPI	Demo | Code
-</div>
-
-📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-
-Building Scalable Systems: A Comprehensive Guide
-AI in Healthcare: The Future is Now
-Modern Web Development Best Practices
-<!-- BLOG-POST-LIST:END -->
-
-🎓 Certifications & Achievements
-🏆 AWS Certified Solutions Architect
-🏅 Google Cloud Professional Data Engineer
-🎯 TensorFlow Developer Certificate
-🌟 Microsoft Azure AI Engineer
-🏆 First Place in National Hackathon 2023
-📈 GitHub Contribution Graph
-<div align="center">
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MEDELBOU3&theme=radical&hide_border=true)
-
-</div>
-
-🤝 Open Source Contributions
-TensorFlow: Documentation improvements
-React: Bug fixes
-Python: Performance optimizations
-📫 Let's Connect<div align="center">
-Platform	Link
-💼 LinkedIn	@medelbouanani
-🐦 Twitter	@medelbouanani
-📧 Email	contact@medelbouanani.dev
-🌐 Website	medelbouanani.dev
-</div>
-
-💭 Favorite Tech Quotes
-"Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke
-
-"Code is like humor. When you have to explain it, it's bad." - Cory House
-
-🎮 When I'm Not Coding
-📚 Reading tech blogs and books
-🎮 Gaming and game development
-🎸 Playing guitar
-🏃‍♂️ Running and fitness
-🎨 Digital art and design
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=MEDELBOU3&label=Profile%20Views&color=brightgreen" alt="Profile views" />
-
-### Show some ❤️ by starring some repositories!
-
-</div>
-
-```
-
-This enhanced version includes:
-
-Improved visual hierarchy
-Detailed project showcases
-Comprehensive tech stack presentation
-Blog posts section
-Certifications and achievements
-Contribution graph
-Open source contributions
-Extended personal interests section
-Professional quotes
-Better organized contact information
-More engaging visual elements
 
