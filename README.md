@@ -57,6 +57,7 @@ I'm a passionate Computer Science & AI student and Full-Stack Developer with a k
   "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "OpenAI", "Hugging Face"],
   "tools": ["Git", "Jenkins", "GitHub Actions", "Terraform", "Prometheus"]
 }
+```
 🎯 Expertise Areas
 <div align="center">
 
