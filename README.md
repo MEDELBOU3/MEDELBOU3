@@ -39,7 +39,7 @@
 - 👯 I'm looking to collaborate on **Open Source AI Projects**
 - 🤔 I'm looking for help with **Advanced DevOps Practices**
 - 💬 Ask me about **Machine Learning, Full-Stack Development, Cloud Computing**
-- 📫 How to reach me: [mohamed.elbouanani@gmail.com](mailto:mohamed.elbouanani@gmail.com)
+- 📫 How to reach me: [mohamed.elbouanani@gmail.com](simo.elb.2005@gmail.com)
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 <h2>🛠️ My Toolkit</h2>
