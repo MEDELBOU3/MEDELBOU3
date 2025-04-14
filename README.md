@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Computer+Science+Student;AI+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Computer+Science+Student;AI+Enthusiast;Full-Stack+Developer;Always+Learning" alt="Typing SVG" />
 </p>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/assets/wave.gif" width="30px"> Welcome to Mohamed EL-bouanani's Digital Universe!
+  <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/assets/wave.gif" width="30px" height="30px"> Welcome to Mohamed EL-bouanani's Digital Universe!
 </h1>
 
 <p align="center">
@@ -18,16 +18,16 @@
   <img src="https://img.shields.io/twitter/follow/Simo_Elbou3?style=social" alt="Twitter Follow">
   
   <div align="center">
-  <a href="https://www.facebook.com/Simo.lbou3" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/simo_elb_3" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@digitalvortex203" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</div>
+    <a href="https://www.facebook.com/Simo.lbou3" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    </a>
+    <a href="https://instagram.com/simo_elb_3" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://www.youtube.com/@digitalvortex203" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    </a>
+  </div>
 </div>
 
 <h2>🚀 Quick Overview</h2>
@@ -39,13 +39,13 @@
 - 👯 I'm looking to collaborate on **Open Source AI Projects**
 - 🤔 I'm looking for help with **Advanced DevOps Practices**
 - 💬 Ask me about **Machine Learning, Full-Stack Development, Cloud Computing**
-- 📫 How to reach me: [simo.elb.2005@gmail.com](simo.elb.2005@gmail.com)
+- 📫 How to reach me: **[simo.elb.2005@gmail.com](mailto:simo.elb.2005@gmail.com)**
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 <h2>🛠️ My Toolkit</h2>
 
-<details>
-<summary>Click to expand!</summary>
+<details open>
+<summary>Click to collapse!</summary>
 <br>
 
 <h3>Languages</h3>
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
@@ -77,7 +77,7 @@
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
@@ -88,7 +88,7 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
 
@@ -113,7 +113,9 @@
 
 <h2>📈 Contribution Graph</h2>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=MEDELBOU3&theme=react-dark" width="100%"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MEDELBOU3&theme=react-dark" width="100%" alt="Contribution Graph"/>
+</div>
 
 <h2>🏆 Achievements</h2>
 
@@ -139,19 +141,18 @@
 <h2>📝 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionizing Healthcare with AI: A Deep Dive](https://yourblog.com/ai-in-healthcare)
-- [The Future of Web3: Decentralized Applications and Beyond](https://yourblog.com/future-of-web3)
-- [Mastering Advanced Python: Tips and Tricks for Data Scientists](https://yourblog.com/advanced-python-for-data-science)
+- [Revolutionizing Healthcare with AI: A Deep Dive](https://medium.com/@simo.elb.2005/revolutionizing-healthcare-with-ai)
+- [The Future of Web3: Decentralized Applications and Beyond](https://medium.com/@simo.elb.2005/future-of-web3)
+- [Mastering Advanced Python: Tips and Tricks for Data Scientists](https://medium.com/@simo.elb.2005/advanced-python-for-data-science)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>🎵 My Music Taste</h2>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31754am2blkxjeazzmkzj54g7qfy?si=QyCHt1HoRfCjCpQYlq3Jdw">
+  <a href="https://open.spotify.com/user/31754am2blkxjeazzmkzj54g7qfy">
     <img src="https://img.shields.io/badge/follow%20on%20spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Follow on Spotify"/>
   </a>
 </p>
-
 
 <h2>📬 Get in Touch</h2>
 
@@ -169,9 +170,9 @@
 
 <div align="center">
   
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourusername)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/yourusername)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/simolbou3)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/simolbou3)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/simolbou3)
 
 </div>
 
@@ -180,36 +181,5 @@
 </div>
 
 <div align="center">
-  Made with ❤️ using GitHub Markdown and a sprinkle of HTML magic
+  <b>Made with ❤️ by Mohamed EL-bouanani © 2025</b>
 </div>
-
-<!-- Hidden Section for SEO and fun! -->
-<!--
-**MEDELBOU3/MEDELBOU3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
