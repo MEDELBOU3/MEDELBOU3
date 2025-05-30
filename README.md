@@ -40,7 +40,6 @@
 - 🤔 I'm looking for help with **Advanced DevOps Practices**
 - 💬 Ask me about **Machine Learning, Full-Stack Development, Cloud Computing**
 - 📫 How to reach me: **[simo.elb.2005@gmail.com](mailto:simo.elb.2005@gmail.com)**
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 <h2>🛠️ My Toolkit</h2>
 
