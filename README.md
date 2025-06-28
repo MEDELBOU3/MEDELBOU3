@@ -27,6 +27,10 @@
     <a href="https://www.youtube.com/@digitalvortex203" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
     </a>
+    <a href="https://www.kaggle.com/mohamedelbouanani" target="_blank">
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+    </a>
+
   </div>
 </div>
 
