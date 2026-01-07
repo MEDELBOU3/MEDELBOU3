@@ -1,10 +1,10 @@
-name: profile
+name: Profile 3D Graph
 on:
-  # Schedule daily updates
+  # Schedule daily updates at midnight
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  # Run workflow manually
   workflow_dispatch:
-  # (optional) Run on each push on the master branch
+  # Run on push to main
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -13,16 +13,19 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/profile@latest
+      - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.profile }}
+          # ✅ UPDATED: Uses your specific secret name
+          token: ${{ secrets.PROFILEMD }}
           
           # Options
           user: MEDELBOU3
           template: classic
           base: ""
           config_timezone: Africa/Casablanca
-          filename: profile.plugin.isocalendar.fully.featured.svg
+          
+          # Output file name (Matches your README link)
+          filename: profile-3d-contrib.svg
           
           # 3D Calendar (The Blocks)
           plugin_isocalendar: yes
