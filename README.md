@@ -100,7 +100,7 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 ---
 
 ## 🎨 3D Contribution Graph
-![3D Contributions](https://raw.githubusercontent.com/USERNAME/github-profile-3d-contrib/main/profile-3d-contrib/profile-green-animate.svg)
+![3D Contributions](https://raw.githubusercontent.com/MEDELBOU3/github-profile-3d-contrib/main/profile-3d-contrib/profile-green-animate.svg)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/profile-3d-contrib/profile-season.svg" alt="3D Contribution Graph" />
