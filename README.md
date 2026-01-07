@@ -66,7 +66,7 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MEDELBOU3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MEDELBOU3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEDELBOU3&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
@@ -92,18 +92,10 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 
 ---
 
-## 📈 Lines of Code Statistics
-
-<!--LOC-STATS-START-->
-<!--LOC-STATS-END-->
-
----
-
 ## 🎨 3D Contribution Graph
-![3D Contributions](https://raw.githubusercontent.com/MEDELBOU3/github-profile-3d-contrib/main/profile-3d-contrib/profile-green-animate.svg)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/profile-3d-contrib/profile-season.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
 </div>
 
 ---
@@ -112,9 +104,9 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/assets/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/assets/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/assets/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -138,13 +130,6 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
     <img src="https://img.shields.io/badge/View_More_Projects-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="More Projects" />
   </a>
 </div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -199,6 +184,3 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
-<!-- LOC-STATS-START -->
-<!-- LOC-STATS-END -->
