@@ -161,5 +161,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=00F7E2,8A2BE2&height=120" alt="Footer" width="100%">
   <br>
-  <b>Made with ❤️ by Mohamed EL-bouanani © 2025</b>
+  <b>Made with ❤️ by Mohamed EL-bouanani © 2026</b>
 </div>
