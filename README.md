@@ -95,7 +95,7 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 ## 🎨 3D Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+  <img src="https://github.com/MEDELBOU3/MEDELBOU3/blob/main/profile.plugin.isocalendar.fully.featured.svg?raw=true" alt="3D Graph" width="100%">
 </div>
 
 ---
