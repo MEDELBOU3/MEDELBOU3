@@ -13,16 +13,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/profile@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.profile }}
           
           # Options
           user: MEDELBOU3
           template: classic
           base: ""
           config_timezone: Africa/Casablanca
-          filename: metrics.plugin.isocalendar.fully.featured.svg
+          filename: profile.plugin.isocalendar.fully.featured.svg
           
           # 3D Calendar (The Blocks)
           plugin_isocalendar: yes
