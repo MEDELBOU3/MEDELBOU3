@@ -1,146 +1,109 @@
-<!-- HEADER & TYPING ANIMATION -->
+<!-- Header with Wave Animation -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohamed%20EL-bouanani&fontSize=60&animation=fadeIn&fontColor=fff)
+
+<!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7E2&center=true&vCenter=true&width=435&lines=Computer+Science+%26+AI+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+The+Future+with+Code" alt="Typing SVG" />
-  
-  <h1 align="center">
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/wave.gif" width="30px" height="30px" alt="wave"> Welcome to My Digital Universe
-  </h1>
-
-  <!-- SOCIAL LINKS -->
-  <p align="center">
-    <a href="https://linkedin.com/in/elbou-simo-644820282" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://x.com/Simo_Elbou3" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
-    </a>
-    <a href="https://www.kaggle.com/mohamedelbouanani" target="_blank">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-    </a>
-    <a href="https://medelbou3.github.io/simoelbcv1/" target="_blank">
-      <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-FF5722?style=for-the-badge&logo=link&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="mailto:simo.elb.2005@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-
-  <!-- PROFILE VIEWS -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MEDELBOU3&style=for-the-badge&color=blueviolet" alt="Profile Views">
-  </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7E2&center=true&vCenter=true&width=500&lines=Computer+Science+%26+AI+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+The+Future+with+Code" alt="Typing SVG" />
+  </a>
 </div>
 
-<br>
-
-<!-- ABOUT ME SECTION -->
+<!-- Social Badges -->
 <div align="center">
-  <h2>⚡ Quick Overview</h2>
+  <a href="https://medelbou3.github.io/simoelbcv1/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://x.com/Simo_Elbou3"><img src="https://img.shields.io/twitter/follow/Simo_Elbou3?style=for-the-badge&logo=x&color=1DA1F2" alt="Twitter Follow"/></a>
+  <a href="https://linkedin.com/in/elbou-simo-644820282"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:simo.elb.2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>👋 About Me</h3>
-      <ul>
-        <li>🎓 <b>Computer Science & AI Student</b> passionate about cutting-edge technology</li>
-        <li>🔭 Currently building <b>AI-powered Web Applications</b> using Python & React</li>
-        <li>🌱 Deeply exploring <b>Quantum Computing, Blockchain & Advanced ML</b></li>
-        <li>💡 Enthusiastic about automating workflows with <b>DevOps & Cloud</b> technologies</li>
-        <li>🚀 <b>Mission:</b> Bridging complex AI models with intuitive user interfaces</li>
-        <li>👯 Looking to collaborate on <b>Open Source AI Projects</b></li>
-        <li>📫 Reach me at: <a href="mailto:simo.elb.2005@gmail.com"><b>simo.elb.2005@gmail.com</b></a></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation">
-    </td>
-  </tr>
-</table>
+---
 
-<br>
+## 👨‍💻 About Me
 
-<!-- TECH STACK -->
+Computer Science & AI Student deeply passionate about cutting-edge technology, performance optimization, and building innovative solutions that bridge complex AI models with intuitive user interfaces.
+
+- 🔭 Currently building **AI-powered Web Applications** using Python & React
+- 🌱 Deep diving into **Quantum Computing, Blockchain & Advanced ML**
+- 💡 Enthusiastic about automating workflows with **DevOps & Cloud** technologies
+- 🚀 **Mission:** Bridging complex AI models with intuitive user interfaces
+- 👯 Looking to collaborate on **Open Source AI Projects & Innovative Solutions**
+- 💬 Ask me about **Machine Learning, Full-Stack Development, Cloud Computing**
+- 📫 Reach me at: **simo.elb.2005@gmail.com**
+- ⚡ Fun fact: I spend more time optimizing code than writing it!
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <h2>🛠️ Technical Arsenal</h2>
-  
-  <h3>Languages</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,go,rust" alt="Languages" />
-  </p>
-  
-  <h3>Frontend & Mobile</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,flutter,html,css,tailwind" alt="Frontend" />
-  </p>
-  
-  <h3>Backend & Databases</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring,postgres,mongodb,redis,graphql" alt="Backend" />
-  </p>
-  
-  <h3>AI/ML & Data Science</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,numpy,opencv,selenium" alt="AI/ML" />
-    <br>
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter" />
-  </p>
-  
-  <h3>Cloud & DevOps</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,githubactions,linux,nginx" alt="DevOps" />
-  </p>
-  
-  <h3>Tools & Platforms</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=git,postman,vscode,figma,idea" alt="Tools" />
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,go,rust,react,nextjs,vue,angular,flutter,html,css,tailwind,nodejs,express,django,fastapi,spring,postgres,mongodb,redis,graphql,tensorflow,pytorch,aws,gcp,azure,docker,kubernetes,jenkins,githubactions,linux,nginx,git,postman,vscode,figma,idea&perline=11" alt="My Skills" />
+  </a>
 </div>
 
-<br>
+---
 
-<!-- GITHUB STATS -->
+## 📊 GitHub Analytics
+
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  
-  <!-- Stats Grid -->
-  <table align="center">
+  <table border="0">
     <tr>
-      <td>
-        <img height="180px" src="https://github-readme-stats.vercel.app/api?username=MEDELBOU3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEDELBOU3&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+      <td width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MEDELBOU3&theme=radical" alt="Profile Details" /></td>
+      <td width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MEDELBOU3&theme=radical" alt="Stats" /></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MEDELBOU3&theme=radical" alt="Repos per Language" /></td>
+      <td width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MEDELBOU3&theme=radical" alt="Most Commit Language" /></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MEDELBOU3&theme=radical&utcOffset=1" alt="Productive Time" />
       </td>
     </tr>
   </table>
-  
-  <br>
-  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=MEDELBOU3&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  
-  <br><br>
-  
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=MEDELBOU3&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-<br>
+<br/>
 
-<!-- 3D CONTRIBUTION GRAPH -->
 <div align="center">
-  <h2>🎨 3D Contribution Graph</h2>
-  <!-- This links to the file generated by your profile.yml workflow -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MEDELBOU3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEDELBOU3&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MEDELBOU3&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MEDELBOU3&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MEDELBOU3&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophy" />
+</div>
+
+---
+
+## 🎨 3D Contribution Graph
+
+<div align="center">
+  <!-- Link fixed to match the output of profile.yml -->
   <img src="https://github.com/MEDELBOU3/MEDELBOU3/blob/main/profile-3d-contrib.svg?raw=true" alt="3D Graph" width="100%">
 </div>
 
-<br>
+---
 
-<!-- CONTRIBUTION SNAKE -->
+## 🐍 Contribution Snake
+
 <div align="center">
-  <h2>🐍 Contribution Snake</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/output/github-contribution-grid-snake.svg">
@@ -148,96 +111,77 @@
   </picture>
 </div>
 
-<br>
+---
 
-<!-- POPULAR REPOSITORIES -->
+## 🚀 Featured Projects
+
 <div align="center">
-  <h2>🌟 Top Repositories</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-repos?username=MEDELBOU3&theme=radical&hide_border=true&show_icons=true&layout=compact" alt="Top Repos" />
+  <a href="https://github.com/MEDELBOU3/AI-Powered-Healthcare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEDELBOU3&repo=AI-Powered-Healthcare&theme=radical&hide_border=true" alt="AI Healthcare" />
+  </a>
+  <a href="https://github.com/MEDELBOU3/E-Commerce_Web_Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEDELBOU3&repo=E-Commerce_Web_Application&theme=radical&hide_border=true" alt="E-Commerce" />
+  </a>
 </div>
 
-<br>
+<br/>
 
-<!-- FEATURED PROJECTS -->
 <div align="center">
-  <h2>🚀 Featured Projects</h2>
-  
-  <div align="center">
-    <table align="center">
-      <tr>
-        <td>
-          <a href="https://github.com/MEDELBOU3/AI-Powered-Healthcare">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MEDELBOU3&repo=AI-Powered-Healthcare&theme=radical&hide_border=true&show_owner=true" />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/MEDELBOU3/E-Commerce_Web_Application">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MEDELBOU3&repo=E-Commerce_Web_Application&theme=radical&hide_border=true&show_owner=true" />
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
-  
-  <br>
-  
-  <div align="center">
-    <a href="https://github.com/MEDELBOU3?tab=repositories&q=&type=&language=&sort=stargazers">
-      <img src="https://custom-icon-badges.demolab.com/badge/View_More_Projects-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white" alt="More Projects" />
-    </a>
-  </div>
+  <a href="https://github.com/MEDELBOU3?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/badge/View_More_Projects-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="More Projects" />
+  </a>
 </div>
 
-<br>
+---
 
-<!-- ACHIEVEMENTS -->
+## 🏅 Achievements
+
 <div align="center">
-  <h2>🏆 Achievements</h2>
-  <p>
-    <img src="https://img.shields.io/badge/Hackathons-10%2B_Wins-FFD700?style=for-the-badge&logo=trophy&logoColor=black" alt="Hackathons">
-    <img src="https://img.shields.io/badge/Research-5%2B_Papers-00C853?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research">
-    <img src="https://img.shields.io/badge/Open_Source-Active_Contributor-blue?style=for-the-badge&logo=github&logoColor=white" alt="Open Source">
-  </p>
-  
+  <img src="https://img.shields.io/badge/Hackathons-10%2B_Wins-FFD700?style=for-the-badge&logo=trophy&logoColor=black" alt="Hackathons">
+  <img src="https://img.shields.io/badge/Research-5%2B_Papers-00C853?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research">
+  <img src="https://img.shields.io/badge/Open_Source-Active_Contributor-blue?style=for-the-badge&logo=github&logoColor=white" alt="Open Source">
+</div>
+
+<br/>
+
+<div align="center">
   <h3>🎵 Coding Vibes</h3>
   <a href="https://open.spotify.com/user/31754am2blkxjeazzmkzj54g7qfy">
     <img src="https://img.shields.io/badge/Spotify-My_Dev_Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
 </div>
 
-<br>
+---
 
-<!-- SUPPORT -->
+## 💖 Support My Work
+
 <div align="center">
-  <h2>💖 Support My Work</h2>
   <p>If you find my projects valuable, consider supporting my work:</p>
-  <p>
-    <a href="https://www.buymeacoffee.com/simolbou3">
-      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
-    </a>
-    <a href="https://paypal.me/simolbou3">
-      <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-    </a>
-    <a href="https://github.com/sponsors/MEDELBOU3">
-      <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"/>
-    </a>
-  </p>
+  <a href="https://www.buymeacoffee.com/simolbou3"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
+  <a href="https://paypal.me/simolbou3"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
+  <a href="https://github.com/sponsors/MEDELBOU3"><img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"/></a>
 </div>
 
-<br>
+---
 
-<!-- FOOTER -->
+## 🤝 Connect With Me
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20Coding%20%26%20Innovating&fontSize=24&fontAlignY=65" width="100%" alt="Footer" />
-  <br>
-  <p>
-    <b>Connect with me:</b>
-    <a href="https://linkedin.com/in/elbou-simo-644820282">LinkedIn</a> •
-    <a href="https://x.com/Simo_Elbou3">Twitter</a> •
-    <a href="https://github.com/MEDELBOU3">GitHub</a> •
-    <a href="mailto:simo.elb.2005@gmail.com">Email</a>
-  </p>
-  <p><b>Made with ❤️ by Mohamed EL-bouanani © 2026</b></p>
-  <img src="https://hit.yhype.me/github/profile?user_id=MEDELBOU3" alt="Profile Hits">
+  <a href="https://linkedin.com/in/elbou-simo-644820282"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn"/></a>
+  <a href="https://x.com/Simo_Elbou3"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="Twitter"/></a>
+  <a href="https://www.kaggle.com/mohamedelbouanani"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=20BEFF&logo=Kaggle&logoColor=FFFFFF&label=" alt="Kaggle"/></a>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MEDELBOU3&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MEDELBOU3.MEDELBOU3" alt="Visitors" />
+  <br/><br/>
+  <img src="https://hits.sh/github.com/MEDELBOU3.svg?style=for-the-badge&label=Profile%20Hits&color=fe7d37" alt="Hits" />
+  <img src="https://img.shields.io/github/stars/MEDELBOU3?style=for-the-badge&logo=github&label=Total%20Stars" alt="Stars" />
+  
+  <p><i>Last Updated: 2026-01-07</i></p>
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
