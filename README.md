@@ -116,11 +116,12 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/MEDELBOU3/AI-Powered-Healthcare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEDELBOU3&repo=AI-Powered-Healthcare&theme=radical&hide_border=true" alt="AI Healthcare" />
+  <a href="https://github.com/MEDELBOU3/AetherStream">
+    <img src="https://github.com/MEDELBOU3/AetherStream/blob/main/assets/ui1.png?raw=true"
+      alt="MOVIE STREAMING WEBAPP" />
   </a>
-  <a href="https://github.com/MEDELBOU3/E-Commerce_Web_Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEDELBOU3&repo=E-Commerce_Web_Application&theme=radical&hide_border=true" alt="E-Commerce" />
+  <a href="https://github.com/MEDELBOU3/SM-Engine/tree/main">
+    <img src="https://github.com/MEDELBOU3/SM-Engine/blob/main/screenshoots/Screenshot%20(742).png?raw=true" alt="Modeling and Game Engine" />
   </a>
 </div>
 
