@@ -1,0 +1,32 @@
+name: Lint Code
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+      
+      - name: Install linting tools
+        run: |
+          pip install pylint flake8 black isort
+      
+      - name: Check code formatting with black
+        run: black --check scripts/ || true
+      
+      - name: Lint with flake8
+        run: flake8 scripts/ --max-line-length=100 || true
+      
+      - name: Sort imports with isort
+        run: isort --check-only scripts/ || true
