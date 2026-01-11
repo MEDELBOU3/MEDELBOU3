@@ -41,28 +41,16 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 </div>
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=medelbou3&theme=radical" alt="Summary Card" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=medelbou3&theme=radical" alt="Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=medelbou3&theme=radical" alt="Langs Card" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=medelbou3&theme=radical" alt="Commit Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=medelbou3&theme=radical&utcOffset=1" alt="Time Card" />
-</div>
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medelbou3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medelbou3&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MEDELBOU3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEDELBOU3&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Langs" />
+  
+  <br/><br/>
+  
+  <img src="https://streak-stats.demolab.com?user=MEDELBOU3&theme=radical&hide_border=true" alt="Streak" />
 </div>
-
 ---
 
 ## 🔥 Streak & Activity
