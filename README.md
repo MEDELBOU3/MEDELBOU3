@@ -1,14 +1,13 @@
-<!-- Header with Wave Animation -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohamed%20EL-bouanani&fontSize=60&animation=fadeIn&fontColor=fff)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohamed%20EL-bouanani&fontSize=60&animation=fadeIn&fontColor=fff" alt="Header" />
+</div>
 
-<!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7E2&center=true&vCenter=true&width=500&lines=Computer+Science+%26+AI+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+The+Future+with+Code" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Social Badges -->
 <div align="center">
   <a href="https://medelbou3.github.io/simoelbcv1/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="https://x.com/Simo_Elbou3"><img src="https://img.shields.io/twitter/follow/Simo_Elbou3?style=for-the-badge&logo=x&color=1DA1F2" alt="Twitter Follow"/></a>
@@ -45,32 +44,33 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 
 ## 📊 GitHub Analytics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MEDELBOU3&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MEDELBOU3&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MEDELBOU3&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MEDELBOU3&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MEDELBOU3&theme=radical&utcOffset=1)
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=medelbou3&theme=radical" alt="Summary Card" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=medelbou3&theme=radical" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=medelbou3&theme=radical" alt="Langs Card" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=medelbou3&theme=radical" alt="Commit Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=medelbou3&theme=radical&utcOffset=1" alt="Time Card" />
+</div>
 
 ---
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=MEDELBOU3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MEDELBOU3&layout=compact&langs_count=8&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=medelbou3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medelbou3&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Langs" />
+</div>
 
 ---
 
-## 🔥 Streak
-
-![](https://streak-stats.demolab.com?user=MEDELBOU3&theme=radical&hide_border=true)
-
-
-<br/>
+## 🔥 Streak & Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MEDELBOU3&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=medelbou3&theme=radical&hide_border=true" alt="Streak" />
+  <br/><br/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=medelbou3&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -78,7 +78,7 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MEDELBOU3&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=medelbou3&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophy" />
 </div>
 
 ---
@@ -86,8 +86,7 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 ## 🎨 3D Contribution Graph
 
 <div align="center">
-  <!-- Link fixed to match the output of profile.yml -->
-  <img src="https://github.com/MEDELBOU3/MEDELBOU3/blob/main/profile-3d-contrib.svg?raw=true" alt="3D Graph" width="100%">
+  <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/profile-3d-contrib.svg" alt="3D Graph" width="100%">
 </div>
 
 ---
@@ -108,11 +107,10 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 
 <div align="center">
   <a href="https://github.com/MEDELBOU3/AetherStream">
-    <img src="https://github.com/MEDELBOU3/AetherStream/blob/main/assets/ui1.png?raw=true"
-      alt="MOVIE STREAMING WEBAPP" />
+    <img src="https://github.com/MEDELBOU3/AetherStream/raw/main/assets/ui1.png" width="45%" alt="MOVIE STREAMING WEBAPP" />
   </a>
-  <a href="https://github.com/MEDELBOU3/SM-Engine/tree/main">
-    <img src="https://github.com/MEDELBOU3/SM-Engine/blob/main/screenshoots/Screenshot%20(742).png?raw=true" alt="Modeling and Game Engine" />
+  <a href="https://github.com/MEDELBOU3/SM-Engine">
+    <img src="https://github.com/MEDELBOU3/SM-Engine/raw/main/screenshoots/Screenshot%20(742).png" width="45%" alt="Modeling and Game Engine" />
   </a>
 </div>
 
@@ -138,7 +136,7 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 
 <div align="center">
   <h3>🎵 Coding Vibes</h3>
-  <a href="https://open.spotify.com/user/31754am2blkxjeazzmkzj54g7qfy">
+  <a href="https://open.spotify.com">
     <img src="https://img.shields.io/badge/Spotify-My_Dev_Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
 </div>
@@ -163,17 +161,3 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
   <a href="https://x.com/Simo_Elbou3"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="Twitter"/></a>
   <a href="https://www.kaggle.com/mohamedelbouanani"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=20BEFF&logo=Kaggle&logoColor=FFFFFF&label=" alt="Kaggle"/></a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MEDELBOU3&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MEDELBOU3.MEDELBOU3" alt="Visitors" />
-  <br/><br/>
-  <img src="https://hits.sh/github.com/MEDELBOU3.svg?style=for-the-badge&label=Profile%20Hits&color=fe7d37" alt="Hits" />
-  <img src="https://img.shields.io/github/stars/MEDELBOU3?style=for-the-badge&logo=github&label=Total%20Stars" alt="Stars" />
-  
-  <p><i>Last Updated: 2026-01-07</i></p>
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
