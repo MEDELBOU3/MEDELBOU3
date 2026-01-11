@@ -45,14 +45,13 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MEDELBOU3&theme=radical)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MEDELBOU3&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MEDELBOU3&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MEDELBOU3&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MEDELBOU3&theme=radical&utcOffset=1)
+
 
 ---
 
