@@ -84,10 +84,22 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 ---
 
 ## 🎨 3D Contribution Graph
-
+<!-- 3D Graph -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/profile-3d-contrib.svg" alt="3D Graph" width="100%">
+  <h3>3D Contribution Graph</h3>
+  <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Graph" width="100%">
 </div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <h3>Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 
 ---
 
