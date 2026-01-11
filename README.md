@@ -46,9 +46,11 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 <div align="center">
   <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Summary Card" width="100%" />
   <br/>
+  
   <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commited" height="170" />
   <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" height="170" />
   <br/>
+  
   <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Time Card" height="170" />
   <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/profile-summary-card-output/radical/1-sort-by-stars.svg" alt="Stars Card" height="170" />
 </div>
