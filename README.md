@@ -45,44 +45,27 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MEDELBOU3&theme=radical" alt="Profile Details"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MEDELBOU3&theme=radical" alt="Stats"/>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MEDELBOU3&theme=radical" alt="Repos per Language"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MEDELBOU3&theme=radical" alt="Most Commit Language"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MEDELBOU3&theme=radical&utcOffset=1" alt="Productive Time"/>
-      </td>
-    </tr>
-  </table>
-</div>
+## 📊 GitHub Analytics
 
-<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MEDELBOU3&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MEDELBOU3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEDELBOU3&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180"/>
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MEDELBOU3&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MEDELBOU3&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MEDELBOU3&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MEDELBOU3&theme=radical&utcOffset=1)
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MEDELBOU3&theme=radical&hide_border=true"/>
-</div>
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=MEDELBOU3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MEDELBOU3&layout=compact&langs_count=8&theme=radical&hide_border=true)
+
+---
+
+## 🔥 Streak
+
+![](https://streak-stats.demolab.com?user=MEDELBOU3&theme=radical&hide_border=true)
 
 
 <br/>
