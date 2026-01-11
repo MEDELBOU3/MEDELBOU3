@@ -41,19 +41,17 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 </div>
 
 ---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- 1. Profile Details -->
   <img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Summary Card" width="100%" />
   <br/>
   
-  <!-- 2. Repos & Stats -->
   <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commited" height="170" />
   <img src="./profile-summary-card-output/radical/3-stats.svg" alt="Stats" height="170" />
   <br/>
   
-  <!-- 3. Time & Commits -->
   <img src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Time Card" height="170" />
   <img src="./profile-summary-card-output/radical/1-sort-by-stars.svg" alt="Stars Card" height="170" />
 </div>
@@ -66,6 +64,7 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
   <img src="https://github-readme-stats.vercel.app/api?username=MEDELBOU3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=0d1117" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEDELBOU3&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Langs" />
 </div>
+
 ---
 
 ## 🔥 Streak & Activity
@@ -87,15 +86,16 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 ---
 
 ## 🎨 3D Contribution Graph
-<!-- 3D Graph -->
+
 <div align="center">
-  <h3>3D Contribution Graph</h3>
   <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Graph" width="100%">
 </div>
 
-<!-- Snake Animation -->
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
-  <h3>Contribution Snake</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/output/github-contribution-grid-snake.svg">
