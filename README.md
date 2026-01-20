@@ -80,7 +80,7 @@ Computer Science & AI Student deeply passionate about cutting-edge technology, p
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MEDELBOU3&theme=flat&row=1&column=6&no-bg=true&no-frame=true" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MEDELBOU3" alt="GitHub Trophy" />
 </div>
 
 ---
