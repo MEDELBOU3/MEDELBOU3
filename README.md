@@ -21,14 +21,7 @@
 
 Computer Science & AI Student deeply passionate about cutting-edge technology, performance optimization, and building innovative solutions that bridge complex AI models with intuitive user interfaces.
 
-- 🔭 Currently building **AI-powered Web Applications** using Python & React
-- 🌱 Deep diving into **Quantum Computing, Blockchain & Advanced ML**
-- 💡 Enthusiastic about automating workflows with **DevOps & Cloud** technologies
-- 🚀 **Mission:** Bridging complex AI models with intuitive user interfaces
-- 👯 Looking to collaborate on **Open Source AI Projects & Innovative Solutions**
-- 💬 Ask me about **Machine Learning, Full-Stack Development, Cloud Computing**
 - 📫 Reach me at: **simo.elb.2005@gmail.com**
-- ⚡ Fun fact: I spend more time optimizing code than writing it!
 
 ---
 
