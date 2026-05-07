@@ -29,7 +29,7 @@ Computer Science & AI Student , I am interested in programming, web development,
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,go,rust,react,nextjs,vue,angular,flutter,html,css,tailwind,nodejs,express,django,fastapi,spring,postgres,mongodb,redis,graphql,tensorflow,pytorch,aws,gcp,azure,docker,kubernetes,jenkins,githubactions,linux,nginx,git,postman,vscode,figma,idea&perline=11" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,threejs,python,git,vscode,figma&perline=8" alt="My Skills" />
   </a>
 </div>
 
