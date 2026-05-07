@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-Computer Science & AI Student deeply passionate about cutting-edge technology, performance optimization, and building innovative solutions that bridge complex AI models with intuitive user interfaces.
+Computer Science & AI Student , I am interested in programming, web development, and creating interactive digital projects. I enjoy working with JavaScript, HTML, and CSS to build applications related to music, movies, education, and 3D systems. I also like exploring algorithms, design, and user experience, and I often experiment with new ideas and technologies to improve my projects and develop my technical skills.
 
 - 📫 Reach me at: **simo.elb.2005@gmail.com**
 
