@@ -73,7 +73,7 @@ I want to feel the power of the engine, hear the roar of the track, and live the
 ## 🗾 Travel to Japan
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/68/8a/3a/688a3a75bb909fe9b8f7d8784783b374.gif" alt="Japan Tokyo Night" width="100%" />
+  <img src="https://4kwallpapers.com/images/wallpapers/rolls-royce-dawn-black-badge-2021-tokyo-cityscape-night-7680x4320-3873.jpg" alt="Japan Tokyo Night" width="100%" />
 </p>
 I dream of traveling to Japan one day and discovering its incredible culture, technology, food, and beautiful landscapes.
 
