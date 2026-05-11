@@ -53,10 +53,54 @@ Computer Science & AI Student , I am interested in programming, web development,
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MEDELBOU3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=0d1117" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEDELBOU3&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Langs" />
-</div>
+# 🌍 My Dreams & Goals
+
+---
+
+## 🏎️ Drive a Formula 1 Car
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1511882150382-421056c89033?q=80&w=1600&auto=format&fit=crop" alt="Formula 1 Car" width="100%" />
+</p>
+
+One of my biggest dreams is to experience the speed and adrenaline of driving a Formula 1 car.  
+I want to feel the power of the engine, hear the roar of the track, and live the atmosphere of professional racing.
+
+> *"Speed is not just movement, it’s a feeling."*
+
+---
+
+## 🗾 Travel to Japan
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1492571350019-22de08371fd3?q=80&w=1600&auto=format&fit=crop" alt="Japan Tokyo Night" width="100%" />
+</p>
+
+I dream of traveling to Japan one day and discovering its incredible culture, technology, food, and beautiful landscapes.
+
+### Places I Want To Visit
+- Tokyo 🌆
+- Kyoto ⛩️
+- Osaka 🍜
+- Mount Fuji 🗻
+
+### Experiences I Want
+- Japanese street food 🍣
+- Anime & gaming culture 🎮
+- Bullet trains 🚄
+- Traditional temples and nature 🌸
+
+---
+
+## 🚀 My Future Vision
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?q=80&w=1600&auto=format&fit=crop" alt="Future Vision" width="100%" />
+</p>
+
+I want to build a successful future, create amazing projects, travel across the world, and continue learning new things every day.
+
+---
 
 ---
 
