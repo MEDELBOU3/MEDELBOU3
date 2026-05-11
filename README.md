@@ -60,7 +60,7 @@ Computer Science & AI Student , I am interested in programming, web development,
 ## 🏎️ Drive a Formula 1 Car
 
 <p align="center">
-  <img src="[https://images.unsplash.com/photo-1511882150382-421056c89033?q=80&w=1600&auto=format&fit=crop](https://4kwallpapers.com/images/walls/thumbs_3t/24663.jpg)" alt="Formula 1 Car" width="100%" />
+  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/24663.jpg" alt="Formula 1 Car" width="100%" />
 </p>
 
 One of my biggest dreams is to experience the speed and adrenaline of driving a Formula 1 car.  
@@ -73,9 +73,8 @@ I want to feel the power of the engine, hear the roar of the track, and live the
 ## 🗾 Travel to Japan
 
 <p align="center">
-  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/24663.jpg" alt="Japan Tokyo Night" width="100%" />
+  <img src="https://i.pinimg.com/originals/68/8a/3a/688a3a75bb909fe9b8f7d8784783b374.gif" alt="Japan Tokyo Night" width="100%" />
 </p>
-
 I dream of traveling to Japan one day and discovering its incredible culture, technology, food, and beautiful landscapes.
 
 ### Places I Want To Visit
