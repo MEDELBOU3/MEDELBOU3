@@ -29,7 +29,7 @@ Computer Science & AI Student , I am interested in programming, web development,
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,threejs,python,git,vscode,figma&perline=8" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,threejs,python,cpp,c,vulkan,git,vscode,figma&perline=8" alt="My Skills" />
   </a>
 </div>
 
