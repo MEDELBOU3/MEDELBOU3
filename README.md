@@ -9,10 +9,25 @@
 </div>
 
 <div align="center">
-  <a href="https://medelbou3.github.io/My-portfolio/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <a href="https://x.com/Simo_Elbou3"><img src="https://img.shields.io/twitter/follow/Simo_Elbou3?style=for-the-badge&logo=x&color=1DA1F2" alt="Twitter Follow"/></a>
-  <a href="https://linkedin.com/in/elbou-simo-644820282"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:simo.elb.2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://medelbou3.github.io/My-portfolio/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+
+  <a href="https://x.com/Simo_Elbou3">
+    <img src="https://img.shields.io/twitter/follow/Simo_Elbou3?style=for-the-badge&logo=x&color=1DA1F2" alt="Twitter Follow"/>
+  </a>
+
+  <a href="https://linkedin.com/in/elbou-simo-644820282">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://www.researchgate.net/profile/Mohamed-El-Bouanani-3">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+  </a>
+
+  <a href="mailto:simo.elb.2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 ---
