@@ -59,7 +59,7 @@ Current interests
 
 <div align="center">
   <a href="https://github.com/MEDELBOU3/SM-Engine">
-    <img src="https://github.com/MEDELBOU3/SM-Engine/raw/main/screenshoots/Screenshot%20(742).png" width="88%" alt="SM Engine"/>
+    <img src="https://medelbou3.github.io/SM-Engine/assets/screenshots/Blur-Effects.png" width="88%" alt="SM Engine"/>
   </a>
 </div>
 
