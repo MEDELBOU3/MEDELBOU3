@@ -193,7 +193,6 @@ My interests include:
 <br/>
 
 <img src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Productive time" height="165" />
-<img src="./profile-summary-card-output/radical/1-sort-by-stars.svg" alt="Repositories by stars" height="165" />
 
 </div>
 
@@ -206,9 +205,6 @@ My interests include:
 <img src="https://streak-stats.demolab.com?user=medelbou3&theme=radical&hide_border=true" alt="GitHub streak" />
 
 <br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=medelbou3&theme=react-dark&area=true&hide_border=true" alt="GitHub activity graph" />
-
 </div>
 
 ---
@@ -231,14 +227,6 @@ My interests include:
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MEDELBOU3&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 </div>
 
 ---
@@ -274,7 +262,7 @@ One of my personal dreams is to experience a Formula 1 car and the engineering, 
 ### Japan
 
 <div align="center">
-  <img src="https://4kwallpapers.com/images/wallpapers/rolls-royce-dawn-black-badge-2021-tokyo-cityscape-night-7680x4320-3873.jpg" alt="Tokyo at night" width="90%" />
+  <img src="https://www.gotokyo.org/fr/destinations/western-tokyo/shibuya/images/main.jpg" alt="Tokyo at night" width="90%" />
 </div>
 
 Japan is one of the countries I would most like to explore for its technology, cities, culture, food, design, transportation, and landscapes.
