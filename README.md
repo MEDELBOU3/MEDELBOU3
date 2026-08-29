@@ -1,11 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:0ea5e9,100:14b8a6&amp;height=220&amp;section=header&amp;text=Mohamed%20El-Bouanani&amp;fontSize=56&amp;fontAlignY=36&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Computer%20Science%20%26%20AI%20Student%20%7C%20Developer%20%7C%20Builder&amp;descAlignY=58&amp;descSize=18"
-    alt="Mohamed El-Bouanani header"
-  />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:14b8a6&height=220&section=header&text=Mohamed%20El-Bouanani&fontSize=56&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20%26%20AI%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=18)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=Computer+Science+%26+AI+Student;Building+SM+Engine;Full-Stack+%26+Creative+Developer;Interested+in+AI%2C+Graphics+%26+Real-Time+Systems;Turning+ideas+into+working+software" alt="Typing introduction" />
