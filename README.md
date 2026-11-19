@@ -65,6 +65,18 @@ Current interests
 
 **SM Engine** is my largest ongoing engineering project: a modular editor and runtime for real-time 3D creation, modeling, animation, gameplay systems, rendering, terrain, virtual production, scripting, build/export workflows and extensibility.
 
+```mermaid
+flowchart LR
+    A[Editor and Workspace] --> B[Scene and Entity System]
+    B --> C[Rendering and Lighting]
+    B --> D[Physics and Gameplay]
+    B --> E[Animation and Timeline]
+    B --> F[AI and Behavior]
+    C --> G[Terrain and Water]
+    A --> H[Plugin API]
+    A --> I[Build and Standalone Export]
+```
+
 | Creation | Runtime | Platform |
 |:--|:--|:--|
 | 3D modeling & sculpting | Physics & gameplay | Plugin architecture |
