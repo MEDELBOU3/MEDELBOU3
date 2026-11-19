@@ -3,10 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:0ea5e9,100:14b8a6&height=240&section=header&text=Mohamed%20El-Bouanani&fontSize=54&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Computer%20Science%20%26%20AI%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=60&descSize=18)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&height=50&lines=Computer+Science+%26+AI+Student;Building+SM+Engine+%E2%80%94+a+real-time+3D+engine;Full-Stack+%26+Creative+Developer;AI+%C2%B7+Graphics+%C2%B7+Real-Time+Systems;Turning+ideas+into+working+software" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&height=50&lines=Computer+Science+%26+AI+Student;Building+SM+Engine;Full-Stack+%26+Creative+Developer;AI%2C+Graphics+%26+Real-Time+Systems;Turning+ideas+into+working+software" alt="Typing introduction" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=MEDELBOU3&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/MEDELBOU3?style=for-the-badge&logo=github&color=14b8a6&labelColor=0f172a" alt="Followers"/>
@@ -25,38 +25,33 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a **Computer Science & Artificial Intelligence student** who loves building software that combines **programming, AI, real-time graphics, interactive systems and product design**.
 
-I like creating projects from the ground up and understanding how complex systems work internally — from web apps and algorithms to 3D tools, game-engine systems, animation workflows, rendering experiments and AI research.
+I like creating projects from the ground up and understanding how complex systems work internally, from web apps and algorithms to 3D tools, game-engine systems, animation workflows, rendering experiments and AI research.
 
-> 🎯 **Current focus:** building **SM Engine**, a modular real-time 3D creation and game-development environment based on **Three.js, JavaScript, Electron, WebGL and WebAssembly-oriented tooling**.
+My current focus is **SM Engine**, a modular real-time 3D creation and game-development environment based on **Three.js, JavaScript, Electron, WebGL and WebAssembly-oriented tooling**.
 
-| 🔭 Currently working on | 🌱 Currently learning | 💬 Ask me about | ⚡ Fun fact |
-|:--|:--|:--|:--|
-| SM Engine | Rendering, optimization, AI | Three.js, engine architecture, JS | I want to drive an F1 car one day 🏎️ |
-
-<details>
-<summary><b>🧭 Current interests (click to expand)</b></summary>
+| Currently working on | Currently learning | Ask me about |
+|:--|:--|:--|
+| SM Engine | Rendering, optimization, AI | Three.js, engine architecture, JavaScript |
 
 ```text
 Current interests
-├── Artificial Intelligence & Machine Learning
-├── Game Engine Architecture
-├── Real-Time 3D Graphics
-├── Rendering & Optimization
-├── Animation Systems
-├── Full-Stack Development
-├── Algorithms & Research
-└── UI / UX for complex creative tools
+|-- Artificial Intelligence & Machine Learning
+|-- Game Engine Architecture
+|-- Real-Time 3D Graphics
+|-- Rendering & Optimization
+|-- Animation Systems
+|-- Full-Stack Development
+|-- Algorithms & Research
+`-- UI / UX for complex creative tools
 ```
-
-</details>
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
 ### SM Engine
 
@@ -70,19 +65,7 @@ Current interests
 
 **SM Engine** is my largest ongoing engineering project: a modular editor and runtime for real-time 3D creation, modeling, animation, gameplay systems, rendering, terrain, virtual production, scripting, build/export workflows and extensibility.
 
-```mermaid
-flowchart LR
-    A[Editor & Workspace] --> B[Scene / Entity System]
-    B --> C[Rendering & Lighting]
-    B --> D[Physics & Gameplay]
-    B --> E[Animation & Timeline]
-    B --> F[AI & Behavior]
-    C --> G[Terrain & Water]
-    A --> H[Plugin API]
-    A --> I[Build & Standalone Export]
-```
-
-| 🎨 Creation | ⚙️ Runtime | 🧩 Platform |
+| Creation | Runtime | Platform |
 |:--|:--|:--|
 | 3D modeling & sculpting | Physics & gameplay | Plugin architecture |
 | Timeline, graph & 2D animation | Player / character architecture | Build & standalone export |
@@ -97,7 +80,7 @@ flowchart LR
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -119,7 +102,7 @@ flowchart LR
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -136,7 +119,7 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 SM Engine
+### SM Engine
 
 <a href="https://github.com/MEDELBOU3/SM-Engine">
   <img src="https://github.com/MEDELBOU3/SM-Engine/raw/main/screenshoots/Screenshot%20(742).png" width="100%" alt="SM Engine"/>
@@ -144,12 +127,12 @@ flowchart LR
 
 Modular 3D creation and game-development engine focused on editor tooling, real-time graphics, animation, gameplay systems and extensibility.
 
-**Tech:** `JavaScript` · `Three.js` · `Electron` · `WebGL`
+**Tech:** `JavaScript` / `Three.js` / `Electron` / `WebGL`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 AetherStream
+### AetherStream
 
 <a href="https://github.com/MEDELBOU3/AetherStream">
   <img src="https://github.com/MEDELBOU3/AetherStream/raw/main/assets/ui1.png" width="100%" alt="AetherStream"/>
@@ -157,7 +140,7 @@ Modular 3D creation and game-development engine focused on editor tooling, real-
 
 A media-focused web application built around an interactive streaming-style interface and front-end experience.
 
-**Tech:** `HTML` · `CSS` · `JavaScript`
+**Tech:** `HTML` / `CSS` / `JavaScript`
 
 </td>
 </tr>
@@ -171,18 +154,18 @@ A media-focused web application built around an interactive streaming-style inte
 
 ---
 
-## 🔬 Research & Technical Exploration
+## Research & Technical Exploration
 
 I'm interested in the research side of computer science, especially when an idea can be implemented, tested, measured and compared experimentally.
 
-- 🧮 Algorithms and heuristics
-- 📈 Optimization problems
-- 🤖 Artificial intelligence
-- ⏱️ Real-time systems
-- 💡 Rendering techniques
-- 🚄 Performance engineering
-- 🌊 Simulation
-- 🧪 Experimental software design
+- Algorithms and heuristics
+- Optimization problems
+- Artificial intelligence
+- Real-time systems
+- Rendering techniques
+- Performance engineering
+- Simulation
+- Experimental software design
 
 <div align="center">
 
@@ -193,7 +176,7 @@ I'm interested in the research side of computer science, especially when an idea
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -210,7 +193,7 @@ I'm interested in the research side of computer science, especially when an idea
 
 </div>
 
-### 📈 Contribution Activity
+### Contribution Activity
 
 <div align="center">
 
@@ -218,13 +201,13 @@ I'm interested in the research side of computer science, especially when an idea
 
 </div>
 
-### 🧊 3D Contribution Graph
+### 3D Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MEDELBOU3/MEDELBOU3/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%">
 </div>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
 
@@ -238,32 +221,32 @@ I'm interested in the research side of computer science, especially when an idea
 
 ---
 
-## 🎯 Goals
+## Goals
 
 I want to keep growing as an engineer and eventually work on ambitious products involving **AI, graphics, real-time systems and creative software**.
 
-- [ ] Build software used by real people
-- [ ] Grow SM Engine into a serious technical platform
-- [ ] Work on advanced AI and graphics systems
-- [ ] Publish stronger technical and research work
-- [ ] Collaborate with talented developers around the world
-- [ ] Build products and companies around meaningful technology
-- [x] Keep learning across computer science, design and engineering
+- Build software used by real people
+- Grow SM Engine into a serious technical platform
+- Work on advanced AI and graphics systems
+- Publish stronger technical and research work
+- Collaborate with talented developers around the world
+- Build products and companies around meaningful technology
+- Keep learning across computer science, design and engineering
 
 ---
 
-## 🌍 Beyond Code
+## Beyond Code
 
 Technology is a big part of my life, but not the only thing I want to experience.
 
-| 🏎️ Formula 1 | 🗾 Japan |
+| Formula 1 | Japan |
 |:--|:--|
 | One of my dreams is to experience an F1 car and the engineering, precision and speed behind motorsport. | A country I'd love to explore for its technology, cities, culture, food, design and landscapes. |
-| **Dream:** feel it from the cockpit | **Wishlist:** Tokyo · Kyoto · Osaka · Mount Fuji |
+| **Dream:** feel it from the cockpit | **Wishlist:** Tokyo, Kyoto, Osaka, Mount Fuji |
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -276,13 +259,13 @@ Technology is a big part of my life, but not the only thing I want to experience
 
 ---
 
-## ☕ Support
+## Support
 
 <div align="center">
 
-If you enjoy my open-source work, a ⭐ on a repository or some feedback is already a great way to support it.
+If you enjoy my open-source work, starring a repository or sharing feedback is already a great way to support it.
 
-<br/>
+<br/><br/>
 
 <a href="https://www.buymeacoffee.com/simolbou3"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/></a>
 <a href="https://paypal.me/simolbou3"><img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
@@ -290,7 +273,7 @@ If you enjoy my open-source work, a ⭐ on a repository or some feedback is alre
 
 <br/><br/>
 
-### Thanks for visiting 💙
+### Thanks for visiting
 
 **I like building difficult things, understanding how they work, and improving them one system at a time.**
 
